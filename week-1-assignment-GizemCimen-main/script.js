@@ -53,3 +53,7 @@ sessionStorage.removeItem("isim");//değerleri silmek
 
 
 
+
+
+
+
