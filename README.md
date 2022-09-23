@@ -4,9 +4,9 @@ Cookie ve Session Storage ile set ve get işlemleri nasıl yapılır ?
 
 script.js dosyası içerisinde örneklerle açıklayınız.
 
-Cookie
+# Cookie
 
-# Cookie nasıl oluşturulur.
+Cookie nasıl oluşturulur.
 
 Var olan Cookie’leri okumak için hangi komut kullanır.
 
